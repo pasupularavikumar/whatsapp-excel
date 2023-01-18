@@ -1,0 +1,1 @@
+=CONCAT("Dear  ",F2 " I am Ravikkumar Maths SME from INFINILEARN Team.  Your alloted class is  ",H2" and Chapter Name is  "&G2&"&char(10)&char(10)&" Today evening we have Zoom meeting about Articulate Work we will send login Credintials"&char(10)&char(10)&" Thanks & Regards" 	
